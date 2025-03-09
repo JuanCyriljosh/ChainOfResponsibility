@@ -1,4 +1,4 @@
-![Blank diagram (5)](https://github.com/user-attachments/assets/e5671eb7-b69a-4017-9ce8-1c3e7e0eb27d)# ChainOfResponsibility
+# ChainOfResponsibility
 
 ## Automated Waste Management System
 
