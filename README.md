@@ -1,4 +1,4 @@
-# ChainOfResponsibility
+![Blank diagram (5)](https://github.com/user-attachments/assets/e5671eb7-b69a-4017-9ce8-1c3e7e0eb27d)# ChainOfResponsibility
 
 ## Automated Waste Management System
 
@@ -31,3 +31,6 @@ Careully collecting hazardous waste. Transporting to disposal facility.
 ```
 
 # UML Class Diagram
+
+
+![Blank diagram (5)](https://github.com/user-attachments/assets/2f490c79-d5b9-4070-ab83-d06488d43820)
